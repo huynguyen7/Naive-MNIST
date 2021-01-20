@@ -3,10 +3,10 @@ This is a _**NAIVE**_ implementation of training digit recognition with MNIST Da
 
 ## Quick-start
 - Change `download` parameter to _True_ to download the dataset.
-![download](images/download.png)
+![download](./images/download.png)
 
 ## Resources
 - MNIST Database: [Click Here](http://yann.lecun.com/exdb/mnist/)
 
 ## Examples
-![accuracy](images/accuracy.png)
+![accuracy](./images/accuracy.png)
