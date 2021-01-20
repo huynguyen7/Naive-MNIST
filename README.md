@@ -3,6 +3,7 @@ This is a _**NAIVE**_ implementation of training digit recognition with MNIST Da
 
 ## Quick-start
 - Change `download` parameter to _True_ to download the dataset.
+
 ![download](./imgs/download.png)
 
 ## Resources
